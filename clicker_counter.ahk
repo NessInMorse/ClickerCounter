@@ -115,6 +115,12 @@ k::
         counter += 1
         Return
 }
+l::
+{
+        Send {Blind}{Text}l
+        counter += 1
+        Return
+}
 z::
 {
         Send {Blind}{Text}z
